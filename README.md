@@ -4,3 +4,8 @@
 
 ### Using OpAmp
 
+![ZCD] (.images/img1.png)
+
+### Using Optocoupler
+
+![ZCD] (.images/img2.png)
