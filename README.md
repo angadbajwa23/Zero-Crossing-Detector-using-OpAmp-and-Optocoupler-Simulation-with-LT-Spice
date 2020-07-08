@@ -4,8 +4,8 @@
 
 ### Using OpAmp
 
-![img1](./images/img1.png)
+![img1.png](./images/img1.png)
 
 ### Using Optocoupler
 
-![img2] (.images/img2.png)
+![img2](./images/img2.png)
